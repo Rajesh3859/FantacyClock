@@ -28,7 +28,7 @@ JavaScript: Logic for updating time and interactions.
 
 <h4>Clone the repository:</h4>
 
-git clone https://github.com/your-username/fantasy-clock.git
+git clone https://github.com/Rajesh3859/fantasy-clock.git
 
 <h4>Navigate to the project folder:</h4>
 
