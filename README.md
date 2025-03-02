@@ -53,12 +53,8 @@ The JavaScript file updates the time dynamically every second.
 
 <h3>Demo</h3>
 
-Live Preview (Replace # with your actual link)
+Live Preview (https://fantacyclock.netlify.app/)
 
 <h3>Contributing</h3>
 
 Feel free to fork this repository and contribute enhancements. Create a pull request if you make improvements.
-
-<h3>License</h3>
-
-This project is licensed under the MIT License.
